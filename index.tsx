@@ -1,3 +1,3 @@
 export default function Home() {
-  return <h1>StudyMate AI – ROOT LEVEL PAGE WORKING</h1>;
+  return <h1>StudyMate AI – Home Page Working</h1>;
 }
